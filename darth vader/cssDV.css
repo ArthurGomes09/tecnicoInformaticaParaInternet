@@ -1,0 +1,10 @@
+
+.header{
+    background-color: #708090;
+    width: 900px;
+    height: 38px;
+}
+.main{
+    border: 1px solid black;
+    background-color: white;
+}

@@ -1,10 +1,19 @@
-
+.all{
+    background-color: black;
+}
 .header{
     background-color: #708090;
     width: 900px;
     height: 38px;
 }
 .main{
+    color: white;
     border: 1px solid black;
-    background-color: white;
+    width: 900px; height: 200px;
+    
+}
+a{
+    text-decoration: unset;
+    color:white;
+    text-align: justify;
 }
